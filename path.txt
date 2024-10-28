@@ -1,0 +1,3 @@
+bank,/Sound/Master.bank
+gold,/Videos/Gold.mp4
+data,/Resources/Data/data.db
