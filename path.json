@@ -1,3 +1,6 @@
 {"Music":"/Sound/Master.bank",
 "Video Asset Gold":"/Videos/Gold.mp4",
-"Database":"/Resources/Data/data.db"}
+"Database":"/Resources/Data/data.db",
+"Main Video":"/Videos/elite.mp4",
+"Intro Video":"/Videos/intro.mp4"
+}
